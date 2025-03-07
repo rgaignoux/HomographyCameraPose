@@ -9,7 +9,7 @@ This project estimates the camera pose in a video recorded with a smartphone. Th
 
 ## Video Result
 
-📹 Watch the final result: [YouTube Link](https://youtu.be/88yBJfffya8)
+![Alt Text](https://github.com/rgaignoux/HomographyCameraPose/blob/main/result.gif)
 
 ## Methodology
 
