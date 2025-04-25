@@ -9,7 +9,7 @@ This project estimates the camera pose in a video recorded with a smartphone. Th
 
 ## Video Result
 
-![Alt Text](https://github.com/rgaignoux/HomographyCameraPose/blob/main/result.gif)
+![Alt Text](https://github.com/rgaignoux/HomographyCameraPose/blob/main/resultgithub.gif)
 
 ## Methodology
 
